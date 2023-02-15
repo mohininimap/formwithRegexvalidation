@@ -1,0 +1,8 @@
+.displayUserData{
+    /* background-color: aqua; */
+    height: 40% auto;    
+    width:40%;
+    border:1 solid gray;
+    box-shadow: 0 0 4px #000000;
+  margin:auto;
+} 

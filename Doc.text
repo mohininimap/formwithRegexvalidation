@@ -1,0 +1,16 @@
+{
+    "editor.codeActionsOnSave": {
+
+    },
+    "typescript.tsserver.watchOptions": {},
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    }
+    
+}
+
+//for including auto tag change in setting
+
+"emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    }
